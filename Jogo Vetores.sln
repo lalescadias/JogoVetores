@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jogo Vetores", "Jogo Vetores.vbproj", "{9767454D-DB8F-464F-9AEB-247682433193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9767454D-DB8F-464F-9AEB-247682433193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9767454D-DB8F-464F-9AEB-247682433193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9767454D-DB8F-464F-9AEB-247682433193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9767454D-DB8F-464F-9AEB-247682433193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C8BD6A-D439-433F-B327-6BE96A432F62}
+	EndGlobalSection
+EndGlobal
